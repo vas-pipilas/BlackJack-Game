@@ -37,4 +37,4 @@ The engine uses a structured nested loop system:
 2. Clone the repository.
 3. Run the script:
    ```bash
-   python blackjack_game.py
+   python main.py
